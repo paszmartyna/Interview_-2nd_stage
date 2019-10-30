@@ -1,0 +1,10 @@
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\bin\Debug\database.dacpac
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\bin\Debug\database.dll
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\bin\Debug\database.pdb
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\obj\Debug\database.sqlprojAssemblyReference.cache
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\obj\Debug\Model.xml
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\obj\Debug\refactor.xml
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\obj\Debug\postdeploy.sql
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\obj\Debug\predeploy.sql
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\obj\Debug\database.dll
+C:\Repos\Zadnia_rekrutacyjne\2etap\Task4\WebAPI\database\obj\Debug\database.pdb
